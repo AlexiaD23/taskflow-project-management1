@@ -1,5 +1,7 @@
 # 🚀 TaskFlow v1.0 - Sistem de Management al Sarcinilor
 
+ACCESEAZA APLICATIA AICI:  https://taskflow-project-management1.vercel.app/
+
 TaskFlow este o aplicație web modernă pentru gestionarea fluxurilor de lucru în cadrul unei organizații, construită pe arhitectura **Client-Server**. Aplicația permite coordonarea eficientă între Administratori, Manageri și Executanți.
 
 ## 🛠️ Tehnologii Utilizate
